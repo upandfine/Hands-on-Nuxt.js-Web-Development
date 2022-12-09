@@ -12,6 +12,6 @@
   "dependencies": {
     "backpack-core": "^0.8.4",
     "cross-env": "^7.0.2",
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
