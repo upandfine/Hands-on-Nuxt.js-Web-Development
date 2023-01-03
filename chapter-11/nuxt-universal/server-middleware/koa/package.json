@@ -17,6 +17,6 @@
     "koa-bodyparser": "^4.3.0",
     "koa-router": "^9.0.1",
     "koa-session": "^6.0.0",
-    "nuxt": "^2.14.0"
+    "nuxt": "^3.0.0"
   }
 }
